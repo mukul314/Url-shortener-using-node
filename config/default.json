@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://mukulsharma3779:1234@cluster0.pysbany.mongodb.net/test",
+    "baseUrl": "http://localhost:3001"
+}
